@@ -9,6 +9,7 @@
     "find-circular-deps": "madge . -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": { "node": "16.14.2" },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "colors": "^1.4.0",
